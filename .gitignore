@@ -128,7 +128,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -208,3 +207,5 @@ scripts/snapshot_dumps/
 
 # Debug artifacts
 .debug/
+config.bat
+node_modules
